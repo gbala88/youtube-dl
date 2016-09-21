@@ -938,6 +938,8 @@ After you have ensured this site is distributing it's content legally, you can f
 2. Check out the source code with:
 
         git clone git@github.com:YOUR_GITHUB_USERNAME/youtube-dl.git
+    or
+        git clone https://github.com/YOUR_GITHUB_USERNAME/youtube-dl.git
 
 3. Start a new git branch with
 
